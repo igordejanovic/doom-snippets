@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-slide-imageh
+# key: slimageh
+# --
+#+ATTR_HTML: :style height: 500px;

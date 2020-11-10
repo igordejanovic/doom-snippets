@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-frag
+# key: slfrag
+# --
+#+ATTR_REVEAL: :frag (roll-in)
+$0

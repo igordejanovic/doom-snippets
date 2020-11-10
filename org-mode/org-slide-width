@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-width
+# key: slwidth
+# --
+#+attr_html: :width $1%
+$0

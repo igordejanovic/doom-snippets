@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-style
+# key: slstyle
+# --
+#+ATTR_HTML: :style $1
+$0

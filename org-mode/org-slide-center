@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-center
+# key: slcenter
+# --
+#+ATTR_HTML: :style text-align: center;
+$0

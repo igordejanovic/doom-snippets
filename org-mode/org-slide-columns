@@ -1,0 +1,11 @@
+# key: slcolumns
+# name: org-slide-columns
+# --
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+[[./images/$1.png]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+[[./images/$2.png]]
+#+REVEAL_HTML: </div>
+$0

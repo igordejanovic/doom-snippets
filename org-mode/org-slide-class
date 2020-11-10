@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-class
+# key: slclass
+# --
+#+ATTR_HTML: :class $1
+$0

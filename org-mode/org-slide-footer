@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-slide-footer
+# key: slfooter
+# --
+#+attr_html: :class footer :style clear: both;
+$0

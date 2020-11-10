@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org-slide-image
+# key: slimage
+# --
+#+ATTR_ORG: :width 300px
+[[./images/$1.png]]
+
+$0

@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: org-slide-start
+# key: slstart
+# --
+#+TITLE: $1
+#+SUBTITLE: $2
+#+EXPORT_FILE_NAME: index.html
+#+SETUPFILE: ../../courses-startup.org
+
+* Sadržaj
+  :PROPERTIES:
+  :UNNUMBERED: notoc
+  :END:
+#+REVEAL_TOC: headlines 1
+
+$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-slide-height
+# key: slheight
+# --
+#+attr_html: :style height: $1px;
